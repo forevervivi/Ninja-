@@ -7,9 +7,9 @@ Library/
 =============== 
       22
 ===============
-Assets/
-Assets/Scenes/!*.unity
+Assets/*
 !Assets/Scenes/
+!Assets/Scripts/
 
 =====================================
 Visual Studio / MonoDevelop generated
